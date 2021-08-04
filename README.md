@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on Android Apps
-- 💬 Ask me about dsa, android..
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning MERN
+- 👯 I’m looking to collaborate on WEB
+- 💬 Ask me about dsa, Web..
 - 📫 How to reach me: @ImUmangp
 
